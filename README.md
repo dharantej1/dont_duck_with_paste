@@ -17,7 +17,10 @@ Alternative app for The great "Dont F*** With Paste".
 <h2>CAUTION!</h2>
 
 <i> main_(language_name) files are supported for auto-complete enabled text editors <br>
-  The app is in the initial stages, So please feel free to contribute for furthur changes if needed!</i>
+  For non auto-complete text editors use common.py file to do the same <br>
+  
+  The app is in the initial stages, So please feel free to contribute for furthur changes if needed!
+</i>
 
 # Screenshots for more help!
 <h2> Step 1</h2>
