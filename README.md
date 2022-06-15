@@ -4,7 +4,7 @@ Alternative app for The great "Dont F*** With Paste".
 # Steps to use the App
 <b>Step 1.</b> Clone the repo to your system
 
-<b>Step 2.</b> Make sure that you have all the dependencies satisfying for python (pyautogui and time) < pip install pyautogui && pip install time >
+<b>Step 2.</b> Make sure that you have all the dependencies satisfying for python (pyautogui and pyperclip) < pip install pyautogui && pip install pyperclip >
 
 <b>Step 3.</b> Paste the text which you want to PASTE in the text area in copy_text.txt file 
 
