@@ -20,3 +20,7 @@ for each_line in text:
     else:
         pyautogui.typewrite(each_line)
         pyautogui.press("Enter")
+time.sleep(3)
+pyautogui.hotkey('ctrl', 's')
+time.sleep(3)
+pyautogui.hotkey('shift', 'f11')
